@@ -1,0 +1,79 @@
+少ir
+/nas/xujl/datasets/parse_data/2024-04-18-15-54-35/cam0 44094 2755.875 e
+/nas/xujl/datasets/parse_data/2024-04-18-15-54-35/cam3 44094
+/nas/xujl/datasets/parse_data/2024-04-18-15-54-35/imu 2757
+/nas/xujl/datasets/parse_data/2024-04-18-15-54-35/ir 8889   rror-error-error-error-error-error-error-
+/nas/xujl/datasets/parse_data/2024-04-18-15-54-35/iv_points 27558
+/nas/xujl/datasets/parse_data/2024-04-18-15-54-35/iv_points2 27559
+/nas/xujl/datasets/parse_data/2024-04-18-15-54-35/pose 2757
+/nas/xujl/datasets/parse_data/2024-04-18-15-54-35/rslidar_points 27560
+
+数量不对其
+/nas/xujl/datasets/parse_data/2024-04-25-14-19-46_error/cam0 104884 6555.25 error-error-error-error-error-error-
+/nas/xujl/datasets/parse_data/2024-04-25-14-19-46_error/cam3 104235
+/nas/xujl/datasets/parse_data/2024-04-25-14-19-46_error/imu 5301
+/nas/xujl/datasets/parse_data/2024-04-25-14-19-46_error/ir 5202
+/nas/xujl/datasets/parse_data/2024-04-25-14-19-46_error/iv_points 52932
+/nas/xujl/datasets/parse_data/2024-04-25-14-19-46_error/iv_points2 52928
+/nas/xujl/datasets/parse_data/2024-04-25-14-19-46_error/pose 5297
+/nas/xujl/datasets/parse_data/2024-04-25-14-19-46_error/rslidar_points 0        error-error-error-error-
+
+--------------------------------------------------------------------------------------------------------------------
+缺失rs_lidar
+
+/nas/xujl/datasets/parse_data/2024-04-19-19-29-44/cam0 65362 4085.125
+/nas/xujl/datasets/parse_data/2024-04-19-19-29-44/cam3 65362
+/nas/xujl/datasets/parse_data/2024-04-19-19-29-44/imu 4085
+/nas/xujl/datasets/parse_data/2024-04-19-19-29-44/ir 65329
+/nas/xujl/datasets/parse_data/2024-04-19-19-29-44/iv_points 40783
+/nas/xujl/datasets/parse_data/2024-04-19-19-29-44/iv_points2 40775
+/nas/xujl/datasets/parse_data/2024-04-19-19-29-44/pose 4085
+/nas/xujl/datasets/parse_data/2024-04-19-19-29-44/rslidar_points 20538  error-
+
+/nas/xujl/datasets/parse_data/2024-04-23-14-30-00/cam0 113983 7123.9375
+/nas/xujl/datasets/parse_data/2024-04-23-14-30-00/cam3 113983
+/nas/xujl/datasets/parse_data/2024-04-23-14-30-00/imu 7125
+/nas/xujl/datasets/parse_data/2024-04-23-14-30-00/ir 113984
+/nas/xujl/datasets/parse_data/2024-04-23-14-30-00/iv_points 71239
+/nas/xujl/datasets/parse_data/2024-04-23-14-30-00/iv_points2 71240
+/nas/xujl/datasets/parse_data/2024-04-23-14-30-00/pose 7125
+/nas/xujl/datasets/parse_data/2024-04-23-14-30-00/rslidar_points 0      error-
+
+/nas/xujl/datasets/parse_data/2024-04-23-19-51-29/cam0 112017 7001.0625
+/nas/xujl/datasets/parse_data/2024-04-23-19-51-29/cam3 112017
+/nas/xujl/datasets/parse_data/2024-04-23-19-51-29/imu 7002
+/nas/xujl/datasets/parse_data/2024-04-23-19-51-29/ir 111926
+/nas/xujl/datasets/parse_data/2024-04-23-19-51-29/iv_points 70011
+/nas/xujl/datasets/parse_data/2024-04-23-19-51-29/iv_points2 70011
+/nas/xujl/datasets/parse_data/2024-04-23-19-51-29/pose 7002
+/nas/xujl/datasets/parse_data/2024-04-23-19-51-29/rslidar_points 0      error-
+
+/nas/xujl/datasets/parse_data/2024-04-26-14-40-12/cam0 114091 7130.6875
+/nas/xujl/datasets/parse_data/2024-04-26-14-40-12/cam3 114091
+/nas/xujl/datasets/parse_data/2024-04-26-14-40-12/imu 7132
+/nas/xujl/datasets/parse_data/2024-04-26-14-40-12/ir 114091
+/nas/xujl/datasets/parse_data/2024-04-26-14-40-12/iv_points 71306
+/nas/xujl/datasets/parse_data/2024-04-26-14-40-12/iv_points2 71307
+/nas/xujl/datasets/parse_data/2024-04-26-14-40-12/pose 7132
+/nas/xujl/datasets/parse_data/2024-04-26-14-40-12/rslidar_points 0      error-
+
+/nas/xujl/datasets/parse_data/2024-04-30-14-50-23/cam0 119671 7479.4375
+/nas/xujl/datasets/parse_data/2024-04-30-14-50-23/cam3 119671
+/nas/xujl/datasets/parse_data/2024-04-30-14-50-23/imu 7480
+/nas/xujl/datasets/parse_data/2024-04-30-14-50-23/ir 119671
+/nas/xujl/datasets/parse_data/2024-04-30-14-50-23/iv_points 74794
+/nas/xujl/datasets/parse_data/2024-04-30-14-50-23/iv_points2 74795
+/nas/xujl/datasets/parse_data/2024-04-30-14-50-23/pose 7480
+/nas/xujl/datasets/parse_data/2024-04-30-14-50-23/rslidar_points 0      error-
+
+/nas/xujl/datasets/parse_data/2024-04-30-19-27-31/cam0 101918 6369.875
+/nas/xujl/datasets/parse_data/2024-04-30-19-27-31/cam3 101918
+/nas/xujl/datasets/parse_data/2024-04-30-19-27-31/imu 6371
+/nas/xujl/datasets/parse_data/2024-04-30-19-27-31/ir 101918
+/nas/xujl/datasets/parse_data/2024-04-30-19-27-31/iv_points 63697
+/nas/xujl/datasets/parse_data/2024-04-30-19-27-31/iv_points2 63699
+/nas/xujl/datasets/parse_data/2024-04-30-19-27-31/pose 6371
+/nas/xujl/datasets/parse_data/2024-04-30-19-27-31/rslidar_points 0      error-error-error-
+
+
+
