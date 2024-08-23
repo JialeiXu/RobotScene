@@ -1,4 +1,6 @@
-# RobotScene Dataset Project  
+# 🚀 RobotScene Dataset Project 🚀
+
+**Official implementation of RobotScene**   
 
 ## ToDo
 - Release Dataset in Goole Drive
